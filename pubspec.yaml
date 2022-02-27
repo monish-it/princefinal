@@ -70,6 +70,15 @@ flutter:
     - assets/pic3.png
     - assets/back.png
     - assets/clglogo.png
+
+
+
+
+
+  # flutter_icons:
+  # android: true
+  # ios: true
+  # image_path: "assets/icon/icon.png"
     
 
   # An image asset can refer to one or more resolution-specific "variants", see

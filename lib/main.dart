@@ -11,7 +11,7 @@ import 'package:princemas/prodet/hcraft.dart';
 import 'package:princemas/prodet/productdetail.dart';
 import 'package:princemas/prodet/vermi.dart';
 import 'prodet/hcraft.dart';
-import 'package:bottom_bar/bottom_bar.dart';
+// import 'package:bottom_bar/bottom_bar.dart';
 
 // import 'package:google_fonts/google_fonts.dart';
 
